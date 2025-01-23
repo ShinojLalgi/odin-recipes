@@ -1,0 +1,12 @@
+body {
+    background-color: skyblue;
+}
+
+.homepage,
+.vada_pav_page,
+.chinese_bhel_page,
+.lasagna_page {
+    font-weight: bold;
+    font-family: monospace, 'Times New Roman', Times, serif;
+}
+
